@@ -11,11 +11,11 @@ Aciona os 4 motores para traz e vira para o lado e segue em linha reta para o la
 ###### Materiais
 
   Arduino Uno. 
-  Sensor ultrassônico hc-sr04.
-  Motor Shield L293D - Driver Ponte H para Arduino.
-  Micro Servo 9G SG90.
-  Motor Dc 3-6v Com Caixa De Redução E Eixo Duplo + Roda 68mm
-  2 Bateria Li-ion 18650 6800mah 3.7v - Recarregável.
+  Sensor ultrassônico hc-sr04.<br/>
+  Motor Shield L293D - Driver Ponte H para Arduino.<br/>
+  Micro Servo 9G SG90.<br/>
+  Motor Dc 3-6v Com Caixa De Redução E Eixo Duplo + Roda 68mm<br/>
+  2 Bateria Li-ion 18650 6800mah 3.7v - Recarregável.<br/>
   
   
 
