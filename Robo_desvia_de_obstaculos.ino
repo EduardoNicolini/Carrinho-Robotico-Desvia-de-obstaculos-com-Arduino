@@ -35,8 +35,7 @@ float dist_right;                      //Armazena a distância em centímetros d
 float dist_left;                       //Armazena a distância em centímetros da esquerda
          
 // --- Configurações Iniciais ---
-void setup()
-{
+void setup(){
 
     //A biblioteca configura as entradas e saídas pertinentes ao Motor Shield...     
     
