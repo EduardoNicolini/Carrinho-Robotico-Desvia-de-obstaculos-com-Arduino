@@ -1,6 +1,6 @@
 // --- Bibliotecas Auxiliares ---
-#include <AFMotor.h>         //Inclui biblioteca AF Motor
-#include <Servo.h>           //Inclui biblioteca para controle de Servos
+#include <AFMotor.h>        //Inclui biblioteca AF Motor
+#include <Servo.h>          //Inclui biblioteca para controle de Servos
  
 // --- Seleção dos Motores ---
 AF_DCMotor motor1(1); //Seleção do Motor 1
