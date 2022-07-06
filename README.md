@@ -2,11 +2,11 @@
 
 O objetivo do projeto é fazer o robo desviar de obstáculos tomando decisões para onde deve ir de forma autonoma.
 
-Ao ligar o robo permanece em linha reta até encontrar um obstaculo detectado pelo sensor ultrassônico hc-sr04 instalaco em um micro servo instalado a frente do robo.
-A tomada de decisão segue pela leitura da distancia de 20 centimetros ou a desejar escolhida pelo programador.<br/>
+Ao ligar o robo permanece em linha reta até encontrar um obstaculo detectado pelo sensor ultrassônico hc-sr04 fixo em um micro servo instalado a frente do robo.
+A tomada de decisão segue pela leitura da distancia de 20 centimetros ou a desejar, escolhido pelo programador.<br/>
 O servo gira o sensor ultrassônico em um angulo de 90 graus a esquerda para, calcula a distancia e armazena em uma variavel.<br/>
 Faz o meso processo girando o sensor para a direita e armazena a distancia em outra variavel.<br/>
-Aciona os 4 motores para traz e vira para o lado e segue em linha reta para o lado em que a distancia calculada foi a maior.<br/> 
+Acalcula a maior diastancia, ciona os 4 motores para traz, vira para o lado com a maior distancia e segue em linha reta até encontrar um novo obstaculo.<br/> 
 
 ###### Materiais
 
