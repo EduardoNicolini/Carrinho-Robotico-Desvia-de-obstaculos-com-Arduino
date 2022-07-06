@@ -1,4 +1,4 @@
-# Carrinho Robotico Desvia de obstaculos com Arduino
+# Carrinho Robótico Autônomo que Desvia de Obstaculos com Arduino
 
 O objetivo do projeto é fazer o robo desviar de obstáculos tomando decisões para onde deve ir de forma autonoma.
 
